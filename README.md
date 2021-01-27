@@ -22,6 +22,7 @@ Database.ini - this is a parameter file whcih has DB connection properties.
 Assuming python is installed, in command prompt, type as follow :
 
 python path_to_code\crawl.py path_to_input_file\input_file.csv/json
+
 python path_to_code\describe.py path_to_input_file\input_file.csv/json
 
 
