@@ -18,4 +18,10 @@ Database.ini - this is a parameter file whcih has DB connection properties.
 
 3.JSON file type considered here is exactly like the one given in the assignment example.(list of objects). Other than list of objects this code do not have the capability to process.
 
+## Executing:
+Assuming python is installed, in command prompt, type as follow :
+
+python path_to_code\crawl.py path_to_input_file\input_file.csv/json
+python path_to_code\describe.py path_to_input_file\input_file.csv/json
+
 
